@@ -1,0 +1,177 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.topo{
+    height: 30px;
+    background-color: #333;
+    color: #fff;
+}
+.topo-interno{
+    width: 100%;
+    max-width: 1040px;
+    height: 30px;
+    margin: auto;
+}
+.topo-left{
+    width: 50%;
+    height: 30px;
+    float: left;
+}
+.topo-right{
+    width: 50%;
+    height: 30px;
+    float: right;
+    margin-top: 2px;
+}
+.topo-left ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.topo-left li{
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    margin-left: 8px;
+    margin-right: 8px;
+}.topo-left li a{
+    text-decoration: none;
+    color: #fff;
+}
+.topobusca{
+    width: 110px;
+    height: 26px;
+    outline: 0;
+    padding: 0;
+    border: 0;
+}
+.topo-right a {
+    float: right;
+}
+.topo-right input {
+    float: right;
+}
+.topo-right img {
+    margin-right: 4px;
+}
+.topo-two{
+    height: 95px;
+    background-color: #fff;
+}
+.topo-two-interno{
+    width: 100%;
+    max-width: 1040px;
+    height: 90px;
+    margin: auto;
+}
+.logo{
+    width: 230px;
+    height: 90px;
+    float: left;
+    margin-top: 5px;
+}
+.topo-two .banner{
+    width: 650px;
+    height: 80px;
+    float: right;
+    margin-top: 7px;
+    background-color: #f00;
+}
+.menu{
+    height: 40px;
+    background-color: #f00;
+}
+.menu-interno {
+    height: 40px;
+    width: 100%;
+    max-width: 1040px;
+    margin: auto;
+}
+.menu ul {
+    padding: 0;
+    list-style: none;
+    margin: 0;
+}
+.menu li {
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.menu a {
+    text-decoration: none;
+    color: #fff;
+}
+.submenu{
+    width: 150px;
+    height: auto;
+    background-color: #f00;
+    position: absolute;
+    display: none;
+}
+.menu li:hover .submenu {
+    display:block
+}
+.submenuitem{
+    width: 140px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+}
+.submenuitem:hover {
+    background-color: #f55;
+}
+.ultimas-noticias{
+    height: 40px;
+    background-color: #fff;
+}
+.ultimas-noticias-interno{
+    height: 40px;
+    width: 100%;
+    max-width: 1040px;
+    margin: auto;
+}
+.ultimas-noticias-area{
+    height: 28px;
+    background-color: #fff;
+    border: 1px solid #CCC;
+    margin-top: 10px;
+}
+.ultimas-noticias-titulo{
+    background-color: #f00;
+    color: #fff;
+    height: 28px;
+    line-height: 28px;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+}
+.ultimas-noticias-conteudo{
+    color: #000;
+    height: 28px;
+    line-height: 28px;
+    display: inline-block;
+    padding: 0;
+}
+.container-interno{
+    width: 100%;
+    max-width: 1040px;
+    margin: auto;
+}
+.leftside{
+    width: 753px;
+    float: left;
+    min-height: 200px;
+    background-color: #333;
+}
+.rightside{
+    width: 275px;
+    min-height: 200px;
+    float: right;
+    background-color: #333;
+    margin-left: 12px;
+}

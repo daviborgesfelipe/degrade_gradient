@@ -1,0 +1,28 @@
+table{
+    border:#808080 1px solid;
+    box-shadow: 2px 2px 1px #000000;
+}
+
+th{
+    border: 1px solid;
+}
+
+td{
+    border: #000000 1px solid;
+}
+
+th,td{
+    box-shadow: 1px 1px 1px #808080;
+}
+
+.amarelo{
+    background: rgb(255, 243,134);
+}
+
+.azul{
+    background: rgb(111, 111, 240);
+}
+
+.verde{
+    background: rgb(160, 247, 160);
+}

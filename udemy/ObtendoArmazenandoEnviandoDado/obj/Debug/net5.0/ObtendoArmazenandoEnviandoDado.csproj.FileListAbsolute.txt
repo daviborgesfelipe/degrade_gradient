@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\bin\Debug\net5.0\ObtendoArmazenandoEnviandoDado.exe
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\bin\Debug\net5.0\ObtendoArmazenandoEnviandoDado.deps.json
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\bin\Debug\net5.0\ObtendoArmazenandoEnviandoDado.runtimeconfig.json
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\bin\Debug\net5.0\ObtendoArmazenandoEnviandoDado.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\bin\Debug\net5.0\ObtendoArmazenandoEnviandoDado.dll
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\bin\Debug\net5.0\ref\ObtendoArmazenandoEnviandoDado.dll
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\bin\Debug\net5.0\ObtendoArmazenandoEnviandoDado.pdb
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\obj\Debug\net5.0\ObtendoArmazenandoEnviandoDado.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\obj\Debug\net5.0\ObtendoArmazenandoEnviandoDado.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\obj\Debug\net5.0\ObtendoArmazenandoEnviandoDado.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\obj\Debug\net5.0\ObtendoArmazenandoEnviandoDado.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\obj\Debug\net5.0\ObtendoArmazenandoEnviandoDado.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\obj\Debug\net5.0\ObtendoArmazenandoEnviandoDado.dll
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\obj\Debug\net5.0\ref\ObtendoArmazenandoEnviandoDado.dll
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\obj\Debug\net5.0\ObtendoArmazenandoEnviandoDado.pdb
+C:\xampp\htdocs\udemy\ObtendoArmazenandoEnviandoDado\obj\Debug\net5.0\ObtendoArmazenandoEnviandoDado.genruntimeconfig.cache

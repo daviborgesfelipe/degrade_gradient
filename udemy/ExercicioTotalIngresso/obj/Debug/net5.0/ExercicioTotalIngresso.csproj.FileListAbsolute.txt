@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\obj\Debug\net5.0\ExercicioTotalIngresso.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\obj\Debug\net5.0\ExercicioTotalIngresso.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\obj\Debug\net5.0\ExercicioTotalIngresso.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\obj\Debug\net5.0\ExercicioTotalIngresso.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\obj\Debug\net5.0\ExercicioTotalIngresso.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\bin\Debug\net5.0\ExercicioTotalIngresso.exe
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\bin\Debug\net5.0\ExercicioTotalIngresso.deps.json
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\bin\Debug\net5.0\ExercicioTotalIngresso.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\bin\Debug\net5.0\ExercicioTotalIngresso.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\bin\Debug\net5.0\ExercicioTotalIngresso.dll
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\bin\Debug\net5.0\ref\ExercicioTotalIngresso.dll
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\bin\Debug\net5.0\ExercicioTotalIngresso.pdb
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\obj\Debug\net5.0\ExercicioTotalIngresso.dll
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\obj\Debug\net5.0\ref\ExercicioTotalIngresso.dll
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\obj\Debug\net5.0\ExercicioTotalIngresso.pdb
+C:\xampp\htdocs\udemy\ExercicioTotalIngresso\obj\Debug\net5.0\ExercicioTotalIngresso.genruntimeconfig.cache

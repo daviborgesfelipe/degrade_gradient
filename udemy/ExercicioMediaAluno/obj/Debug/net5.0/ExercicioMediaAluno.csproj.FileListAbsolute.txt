@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\bin\Debug\net5.0\ExercicioMediaAluno.exe
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\bin\Debug\net5.0\ExercicioMediaAluno.deps.json
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\bin\Debug\net5.0\ExercicioMediaAluno.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\bin\Debug\net5.0\ExercicioMediaAluno.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\bin\Debug\net5.0\ExercicioMediaAluno.dll
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\bin\Debug\net5.0\ref\ExercicioMediaAluno.dll
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\bin\Debug\net5.0\ExercicioMediaAluno.pdb
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\obj\Debug\net5.0\ExercicioMediaAluno.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\obj\Debug\net5.0\ExercicioMediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\obj\Debug\net5.0\ExercicioMediaAluno.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\obj\Debug\net5.0\ExercicioMediaAluno.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\obj\Debug\net5.0\ExercicioMediaAluno.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\obj\Debug\net5.0\ExercicioMediaAluno.dll
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\obj\Debug\net5.0\ref\ExercicioMediaAluno.dll
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\obj\Debug\net5.0\ExercicioMediaAluno.pdb
+C:\xampp\htdocs\udemy\ExercicioMediaAluno\obj\Debug\net5.0\ExercicioMediaAluno.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+#table{
+    width: 350px;
+    height: 175px;
+    border: 2px
+    solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#browser{
+    border: 1px 
+    solid #000;
+    text-transform:uppercase;
+    font-weight:bold;
+}
+
+#visitor{
+    border: 1px
+    solid #000;
+    text-transform:uppercase;
+    font-weight:bold;
+}
+
+#principal_dois{
+    border: 1px 
+    solid #000;
+    text-transform:uppercase;
+    font-weight:bold;
+}
+
+.td{
+    text-align: left;
+    border: 1px
+    solid #000;
+    padding: 0px;
+}

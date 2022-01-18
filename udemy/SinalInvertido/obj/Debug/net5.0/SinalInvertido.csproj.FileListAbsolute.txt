@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\SinalInvertido\bin\Debug\net5.0\SinalInvertido.exe
+C:\xampp\htdocs\udemy\SinalInvertido\bin\Debug\net5.0\SinalInvertido.deps.json
+C:\xampp\htdocs\udemy\SinalInvertido\bin\Debug\net5.0\SinalInvertido.runtimeconfig.json
+C:\xampp\htdocs\udemy\SinalInvertido\bin\Debug\net5.0\SinalInvertido.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\SinalInvertido\bin\Debug\net5.0\SinalInvertido.dll
+C:\xampp\htdocs\udemy\SinalInvertido\bin\Debug\net5.0\ref\SinalInvertido.dll
+C:\xampp\htdocs\udemy\SinalInvertido\bin\Debug\net5.0\SinalInvertido.pdb
+C:\xampp\htdocs\udemy\SinalInvertido\obj\Debug\net5.0\SinalInvertido.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\SinalInvertido\obj\Debug\net5.0\SinalInvertido.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\SinalInvertido\obj\Debug\net5.0\SinalInvertido.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\SinalInvertido\obj\Debug\net5.0\SinalInvertido.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\SinalInvertido\obj\Debug\net5.0\SinalInvertido.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\SinalInvertido\obj\Debug\net5.0\SinalInvertido.dll
+C:\xampp\htdocs\udemy\SinalInvertido\obj\Debug\net5.0\ref\SinalInvertido.dll
+C:\xampp\htdocs\udemy\SinalInvertido\obj\Debug\net5.0\SinalInvertido.pdb
+C:\xampp\htdocs\udemy\SinalInvertido\obj\Debug\net5.0\SinalInvertido.genruntimeconfig.cache

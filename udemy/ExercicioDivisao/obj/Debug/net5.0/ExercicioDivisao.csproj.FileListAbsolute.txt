@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExercicioDivisao\obj\Debug\net5.0\ExercicioDivisao.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExercicioDivisao\obj\Debug\net5.0\ExercicioDivisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExercicioDivisao\obj\Debug\net5.0\ExercicioDivisao.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExercicioDivisao\obj\Debug\net5.0\ExercicioDivisao.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExercicioDivisao\obj\Debug\net5.0\ExercicioDivisao.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExercicioDivisao\bin\Debug\net5.0\ExercicioDivisao.exe
+C:\xampp\htdocs\udemy\ExercicioDivisao\bin\Debug\net5.0\ExercicioDivisao.deps.json
+C:\xampp\htdocs\udemy\ExercicioDivisao\bin\Debug\net5.0\ExercicioDivisao.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExercicioDivisao\bin\Debug\net5.0\ExercicioDivisao.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExercicioDivisao\bin\Debug\net5.0\ExercicioDivisao.dll
+C:\xampp\htdocs\udemy\ExercicioDivisao\bin\Debug\net5.0\ref\ExercicioDivisao.dll
+C:\xampp\htdocs\udemy\ExercicioDivisao\bin\Debug\net5.0\ExercicioDivisao.pdb
+C:\xampp\htdocs\udemy\ExercicioDivisao\obj\Debug\net5.0\ExercicioDivisao.dll
+C:\xampp\htdocs\udemy\ExercicioDivisao\obj\Debug\net5.0\ref\ExercicioDivisao.dll
+C:\xampp\htdocs\udemy\ExercicioDivisao\obj\Debug\net5.0\ExercicioDivisao.pdb
+C:\xampp\htdocs\udemy\ExercicioDivisao\obj\Debug\net5.0\ExercicioDivisao.genruntimeconfig.cache

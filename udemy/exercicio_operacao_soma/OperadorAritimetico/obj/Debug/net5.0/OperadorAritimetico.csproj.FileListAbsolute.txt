@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\bin\Debug\net5.0\OperadorAritimetico.exe
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\bin\Debug\net5.0\OperadorAritimetico.deps.json
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\bin\Debug\net5.0\OperadorAritimetico.runtimeconfig.json
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\bin\Debug\net5.0\OperadorAritimetico.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\bin\Debug\net5.0\OperadorAritimetico.dll
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\bin\Debug\net5.0\ref\OperadorAritimetico.dll
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\bin\Debug\net5.0\OperadorAritimetico.pdb
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\obj\Debug\net5.0\OperadorAritimetico.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\obj\Debug\net5.0\OperadorAritimetico.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\obj\Debug\net5.0\OperadorAritimetico.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\obj\Debug\net5.0\OperadorAritimetico.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\obj\Debug\net5.0\OperadorAritimetico.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\obj\Debug\net5.0\OperadorAritimetico.dll
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\obj\Debug\net5.0\ref\OperadorAritimetico.dll
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\obj\Debug\net5.0\OperadorAritimetico.pdb
+C:\xampp\htdocs\udemy\exercicio_operacao_soma\OperadorAritimetico\obj\Debug\net5.0\OperadorAritimetico.genruntimeconfig.cache

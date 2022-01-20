@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+.exemplo{
+    width: 500px;
+    height: 200px;
+    background: #044797;
+    /*versao universal | deg é igual ao grau do degrade*/
+    background: linear-gradient(-75deg, #000, #fff, #000);
+    /*previnir versoes abaixo da 15 do mozira*/
+    background: -moz-linear-gradient(-75deg, #000, #fff, #000); 
+    /*previnir versoes do opera*/
+    background: -o-linear-gradient(-75deg, #000, #fff, #000); 
+    /*previnir versoes abaixo da 6 do safari*/
+    background: -webkit-gradient(-75deg, #000, #fff, #000);
+    border-radius: 25px; 
+}
